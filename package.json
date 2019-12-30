@@ -1,0 +1,22 @@
+{
+  "name": "interviewproblems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmons2000/InterviewProblems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kmons2000/InterviewProblems/issues"
+  },
+  "homepage": "https://github.com/Kmons2000/InterviewProblems#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
